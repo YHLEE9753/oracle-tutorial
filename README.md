@@ -13,5 +13,19 @@ https://www.oracletutorial.com/
 [3-1.CDB 와 PDB](https://github.com/YHLEE9753/oracle-tutorial/blob/main/1.%20Start/3-1.CDB%20%EC%99%80%20PDB.md)<br>
 
 ### 2. Oracle Basics
-[1.Querying data]
-[2.Sorting data]
+1. Querying data<br>
+   [- SELECT]() 
+2. Sorting data<br>
+   [- DISTINCT]()<br>
+   [- WHERE]()<br>
+3. Filtering data<br>
+4. Joining tables<br>
+5. Grouping data<br>
+6. Subquery<br>
+7. Set Operators<br>
+8. More on Groupings<br>
+9. Modifying data<br>
+10. Data definition<br>
+11. Oracle data types<br>
+12. Constraints<br>
+13. Temporary Tables<br>
