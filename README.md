@@ -19,6 +19,12 @@ https://www.oracletutorial.com/
 2. Sorting data<br>
    [- DISTINCT]()<br>
    [- WHERE]()<br>
+   [- AND, OR]()<br>
+   [- FETCH]()<br>
+   [- IN]()<br>
+   [- BETWEEN]()<br>
+   [- LIKE]()<br>
+   [- IS NULL]()<br>
 3. Filtering data<br>
 4. Joining tables<br>
 5. Grouping data<br>
