@@ -1,4 +1,5 @@
 # Oracle-Tutorial
+- 실습 환경은 docker 이다
 - 설치 Oracle docker image 는 gvenzl/oracle-xe:latest 이다.(230106 - OraDBHome21cXE)
 - mac m1은 Colima 사용 시 실습 가능하다
 - Oracle Tutorial 는 12c 기준이다
