@@ -1,7 +1,7 @@
 # Oracle-Tutorial
 - 실습 환경은 docker 이다
 - 설치 Oracle docker image 는 gvenzl/oracle-xe:latest 이다.(230106 - OraDBHome21cXE)
-- mac m1은 Colima 사용 시 실습 가능하다
+- mac m1, m2는 Colima 사용 시 실습 가능하다
 - Oracle Tutorial 는 12c 기준이다
 ## Oracle Tutorial
 https://www.oracletutorial.com/
@@ -10,8 +10,8 @@ https://www.oracletutorial.com/
 ### 1. Start
 [1.Oracle 설치](https://github.com/YHLEE9753/oracle-tutorial/blob/main/1.%20Start/1.Oracle%20%EC%84%A4%EC%B9%98.md)<br>
 [2.Docker Oracle sqlplus 접속](https://github.com/YHLEE9753/oracle-tutorial/blob/main/1.%20Start/2.Docker%20Oracle%20sqlplus%20%EC%A0%91%EC%86%8D.md)<br>
-[3.Oracle 유저 생성 및 Sample Data 주입(mac)]()<br>
-[3.Oracle 유저 생성 및 Sample Data 주입(windows)]()<br>
+[3.Oracle 유저 생성 및 Sample Data 주입(mac)](https://github.com/YHLEE9753/oracle-tutorial/blob/main/1.%20Start/3.Oracle%20%EC%9C%A0%EC%A0%80%20%EC%83%9D%EC%84%B1%20%EB%B0%8F%20Sample%20Data%20%EC%A3%BC%EC%9E%85(mac).md)<br>
+[3.Oracle 유저 생성 및 Sample Data 주입(windows)](https://github.com/YHLEE9753/oracle-tutorial/blob/main/1.%20Start/3.Oracle%20%EC%9C%A0%EC%A0%80%20%EC%83%9D%EC%84%B1%20%EB%B0%8F%20Sample%20Data%20%EC%A3%BC%EC%9E%85(windows).md)<br>
 [3-1.CDB 와 PDB](https://github.com/YHLEE9753/oracle-tutorial/blob/main/1.%20Start/3-1.CDB%20%EC%99%80%20PDB.md)<br>
 
 ### 2. Oracle Basics
@@ -30,12 +30,27 @@ https://www.oracletutorial.com/
    [- IS NULL](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/3.%20Filtering%20data/8.IS%20NULL.md)<br>
 4. Joining tables<br>
    [- A visual explanaton of Oracle joins]()<br>
+   [- INNER JOIN]()<br>
+   [- LEFT JOIN]()<br>
+   [- RIGHT JOIN]()<br>
+   [- FULL OUTER JOIN]()<br>
+   [- CROSS JOIN]()<br>
+   [- SELF JOIN]()<br>
 5. Grouping data<br>
+   [- ]()<br>
 6. Subquery<br>
+   [- ]()<br>
 7. Set Operators<br>
+   [- ]()<br>
 8. More on Groupings<br>
+   [- ]()<br>
 9. Modifying data<br>
+   [- ]()<br>
 10. Data definition<br>
+    [- ]()<br>
 11. Oracle data types<br>
+    [- ]()<br>
 12. Constraints<br>
+    [- ]()<br>
 13. Temporary Tables<br>
+    [- ]()<br>
