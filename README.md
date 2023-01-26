@@ -15,18 +15,20 @@ https://www.oracletutorial.com/
 
 ### 2. Oracle Basics
 1. Querying data<br>
-   [- SELECT]() 
+   [- SELECT](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/1.%20Quering%20data/1.select.md) 
 2. Sorting data<br>
-   [- DISTINCT]()<br>
-   [- WHERE]()<br>
-   [- AND, OR]()<br>
-   [- FETCH]()<br>
-   [- IN]()<br>
-   [- BETWEEN]()<br>
-   [- LIKE]()<br>
-   [- IS NULL]()<br>
+   [- ORDER BY](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/2.%20Sorting%20data/1.Order%20by.md)<br>
 3. Filtering data<br>
+   [- DISTINCT](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/3.%20Filtering%20data/1.DISTINCT.md)<br>
+   [- WHERE](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/3.%20Filtering%20data/2.WHERE.md)<br>
+   [- AND, OR](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/3.%20Filtering%20data/3.AND%2COR.md)<br>
+   [- FETCH](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/3.%20Filtering%20data/4.FETCH.md)<br>
+   [- IN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/3.%20Filtering%20data/5.IN.md)<br>
+   [- BETWEEN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/3.%20Filtering%20data/6.BETWEEN.md)<br>
+   [- LIKE](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/3.%20Filtering%20data/7.LIKE.md)<br>
+   [- IS NULL](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/3.%20Filtering%20data/8.IS%20NULL.md)<br>
 4. Joining tables<br>
+   [- A visual explanaton of Oracle joins]()<br>
 5. Grouping data<br>
 6. Subquery<br>
 7. Set Operators<br>
