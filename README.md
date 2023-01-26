@@ -29,13 +29,13 @@ https://www.oracletutorial.com/
    [- LIKE](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/3.%20Filtering%20data/7.LIKE.md)<br>
    [- IS NULL](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/3.%20Filtering%20data/8.IS%20NULL.md)<br>
 4. Joining tables<br>
-   [- A visual explanaton of Oracle joins]()<br>
-   [- INNER JOIN]()<br>
-   [- LEFT JOIN]()<br>
-   [- RIGHT JOIN]()<br>
-   [- FULL OUTER JOIN]()<br>
-   [- CROSS JOIN]()<br>
-   [- SELF JOIN]()<br>
+   [- A visual explanaton of Oracle joins](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/1.%20A%20visual%20explanaton%20of%20Oracle%20joins.md)<br>
+   [- INNER JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/2.INNER%20JOIN.md)<br>
+   [- LEFT JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/3.LEFT%20JOIN.md)<br>
+   [- RIGHT JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/4.RIGHT%20JOIN.md)<br>
+   [- FULL OUTER JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/5.FULL%20OUTER%20JOIN.md)<br>
+   [- CROSS JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/6.CROSS%20JOIN.md)<br>
+   [- SELF JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/7.SELF%20JOIN.md)<br>
 5. Grouping data<br>
    [- ]()<br>
 6. Subquery<br>
