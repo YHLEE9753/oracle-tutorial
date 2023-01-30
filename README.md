@@ -37,17 +37,23 @@ https://www.oracletutorial.com/
    [- CROSS JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/6.CROSS%20JOIN.md)<br>
    [- SELF JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/7.SELF%20JOIN.md)<br>
 5. Grouping data<br>
-   [- GROUP BY]()<br>
-   [- HAVING]()<br>
+   [- GROUP BY](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/5.%20Grouping%20data/1.GROUP%20BY.md)<br>
+   [- HAVING](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/5.%20Grouping%20data/2.HAVING.md)<br>
 6. Subquery<br>
    [- Subquery]()<br>
    [- Correlated Subquery]()<br>
    [- EXISTS and NOT EXISTS]()<br>
    [- ANY, SOME, and ALL]()<br>
 7. Set Operators<br>
-   [- ]()<br>
+   [- UNION]()<br>
+   [- INTERSECT]()<br>
+   [- MINUS]()<br>
 8. More on Groupings<br>
-   [- ]()<br>
+   [- Grouping sets]()<br>
+   [- CUBE]()<br>
+   [- ROLLUP]()<br>
+   [- PIVOT]()<br>
+   [- UNPIVOT]()<br>
 9. Modifying data<br>
    [- ]()<br>
 10. Data definition<br>
