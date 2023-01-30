@@ -37,9 +37,13 @@ https://www.oracletutorial.com/
    [- CROSS JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/6.CROSS%20JOIN.md)<br>
    [- SELF JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/7.SELF%20JOIN.md)<br>
 5. Grouping data<br>
-   [- ]()<br>
+   [- GROUP BY]()<br>
+   [- HAVING]()<br>
 6. Subquery<br>
-   [- ]()<br>
+   [- Subquery]()<br>
+   [- Correlated Subquery]()<br>
+   [- EXISTS and NOT EXISTS]()<br>
+   [- ANY, SOME, and ALL]()<br>
 7. Set Operators<br>
    [- ]()<br>
 8. More on Groupings<br>
