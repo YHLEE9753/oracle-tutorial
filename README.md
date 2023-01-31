@@ -31,7 +31,7 @@ https://www.oracletutorial.com/
 4. Joining tables<br>
    [- A visual explanaton of Oracle joins](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/1.%20A%20visual%20explanaton%20of%20Oracle%20joins.md)<br>
    [- INNER JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/2.INNER%20JOIN.md)<br>
-   [- LEFT JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/3.LEFT%20JOIN.md)<br>
+   [- LEFT JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/git 2.%20Oracle%20Basics/4.%20Joining%20tables/3.LEFT%20JOIN.md)<br>
    [- RIGHT JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/4.RIGHT%20JOIN.md)<br>
    [- FULL OUTER JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/5.FULL%20OUTER%20JOIN.md)<br>
    [- CROSS JOIN](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/4.%20Joining%20tables/6.CROSS%20JOIN.md)<br>
