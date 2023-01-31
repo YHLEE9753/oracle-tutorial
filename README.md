@@ -43,8 +43,8 @@ https://www.oracletutorial.com/
    [- Subquery](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/6.%20Subquery/1.Subquery.md)<br>
    [- Correlated Subquery](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/6.%20Subquery/2.Correlated%20Subquery.md)<br>
    [- EXISTS and NOT EXISTS](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/6.%20Subquery/3.EXISTS%20and%20NOT%20EXISTS.md)<br>
-   [- ANY, SOME]()<br>
-   [- ALL]()<br>
+   [- ANY, SOME](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/6.%20Subquery/4.ANY%2C%20SOME.md)<br>
+   [- ALL](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/6.%20Subquery/5.ALL.md)<br>
 7. Set Operators<br>
    [- UNION]()<br>
    [- INTERSECT]()<br>
