@@ -46,9 +46,9 @@ https://www.oracletutorial.com/
    [- ANY, SOME](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/6.%20Subquery/4.ANY%2C%20SOME.md)<br>
    [- ALL](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/6.%20Subquery/5.ALL.md)<br>
 7. Set Operators<br>
-   [- UNION]()<br>
-   [- INTERSECT]()<br>
-   [- MINUS]()<br>
+   [- UNION](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/7.%20Set%20Operators/1.UNION.md)<br>
+   [- INTERSECT](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/7.%20Set%20Operators/2.INTERSECT.md)<br>
+   [- MINUS](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/7.%20Set%20Operators/3.MINUS.md)<br>
 8. More on Groupings<br>
    [- Grouping sets]()<br>
    [- CUBE]()<br>
@@ -56,12 +56,48 @@ https://www.oracletutorial.com/
    [- PIVOT]()<br>
    [- UNPIVOT]()<br>
 9. Modifying data<br>
-   [- ]()<br>
+   [- INSERT]()<br>
+   [- INSERT INTO SELECT]()<br>
+   [- INSERT ALL]()<br>
+   [- UPDATE]()<br>
+   [- DELETE]()<br>
+   [- MERGE]()<br>
 10. Data definition<br>
-    [- ]()<br>
+    [- CREATE TABLE]()<br>
+    [- Identity Column]()<br>
+    [- ALTER TABLE]()<br>
+    [- ALTER TABLE ADD column]()<br>
+    [- ALTER TABLE MODIFY column]()<br>
+    [- Drop columns]()<br>
+    [- DROP TABLE]()<br>
+    [- TRUNCATE TABLE]()<br>
+    [- RENAME table]()<br>
+    [- Virtual columns]()<br>
 11. Oracle data types<br>
+    [- ]()<br>
+    [- ]()<br>
+    [- ]()<br>
+    [- ]()<br>
+    [- ]()<br>
+    [- ]()<br>
+    [- ]()<br>
+    [- ]()<br>
+    [- ]()<br>
+    [- ]()<br>
     [- ]()<br>
 12. Constraints<br>
     [- ]()<br>
+    [- ]()<br>
+    [- ]()<br>
+    [- ]()<br>
+    [- ]()<br>
 13. Temporary Tables<br>
     [- ]()<br>
+    [- ]()<br>
+
+### 2. Oracle View
+
+### 3. Oracle Index
+
+### 4. PL/SQL Tutorial
+
