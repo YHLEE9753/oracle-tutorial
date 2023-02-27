@@ -56,48 +56,19 @@ https://www.oracletutorial.com/
    [- PIVOT](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/8.%20More%20on%20Groupings/4.PIVOT.md)<br>
    [- UNPIVOT](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/8.%20More%20on%20Groupings/5.UNPIVOT.md)<br>
 9. Modifying data<br>
-   [- INSERT]()<br>
-   [- INSERT INTO SELECT]()<br>
-   [- INSERT ALL]()<br>
-   [- UPDATE]()<br>
-   [- DELETE]()<br>
-   [- MERGE]()<br>
 10. Data definition<br>
-    [- CREATE TABLE]()<br>
-    [- Identity Column]()<br>
-    [- ALTER TABLE]()<br>
-    [- ALTER TABLE ADD column]()<br>
-    [- ALTER TABLE MODIFY column]()<br>
-    [- Drop columns]()<br>
-    [- DROP TABLE]()<br>
-    [- TRUNCATE TABLE]()<br>
-    [- RENAME table]()<br>
-    [- Virtual columns]()<br>
 11. Oracle data types<br>
-    [- ]()<br>
-    [- ]()<br>
-    [- ]()<br>
-    [- ]()<br>
-    [- ]()<br>
-    [- ]()<br>
-    [- ]()<br>
-    [- ]()<br>
-    [- ]()<br>
-    [- ]()<br>
-    [- ]()<br>
 12. Constraints<br>
-    [- ]()<br>
-    [- ]()<br>
-    [- ]()<br>
-    [- ]()<br>
-    [- ]()<br>
 13. Temporary Tables<br>
-    [- ]()<br>
-    [- ]()<br>
 
 ### 2. Oracle View
 
 ### 3. Oracle Index
+[1. Create a new index]()<br>
+[2. Removing an index]()<br>
+[3. Unique index]()<br>
+[4. Function-based index]()<br>
+[5. Bitmap index]()<br>
 
 ### 4. PL/SQL Tutorial
 
