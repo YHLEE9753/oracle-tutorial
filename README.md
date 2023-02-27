@@ -67,6 +67,7 @@ https://www.oracletutorial.com/
 [1. Create a new index]()<br>
 [2. Removing an index]()<br>
 [3. Unique index]()<br>
+[3_1. Unique constraint vs Unique index]()<br>
 [4. Function-based index]()<br>
 [5. Bitmap index]()<br>
 
