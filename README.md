@@ -50,11 +50,11 @@ https://www.oracletutorial.com/
    [- INTERSECT](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/7.%20Set%20Operators/2.INTERSECT.md)<br>
    [- MINUS](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/7.%20Set%20Operators/3.MINUS.md)<br>
 8. More on Groupings<br>
-   [- Grouping sets]()<br>
-   [- CUBE]()<br>
-   [- ROLLUP]()<br>
-   [- PIVOT]()<br>
-   [- UNPIVOT]()<br>
+   [- Grouping sets](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/8.%20More%20on%20Groupings/1.Grouping%20sets.md)<br>
+   [- CUBE](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/8.%20More%20on%20Groupings/2.CUBE.md)<br>
+   [- ROLLUP](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/8.%20More%20on%20Groupings/3.ROLLUP.md)<br>
+   [- PIVOT](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/8.%20More%20on%20Groupings/4.PIVOT.md)<br>
+   [- UNPIVOT](https://github.com/YHLEE9753/oracle-tutorial/blob/main/2.%20Oracle%20Basics/8.%20More%20on%20Groupings/5.UNPIVOT.md)<br>
 9. Modifying data<br>
    [- INSERT]()<br>
    [- INSERT INTO SELECT]()<br>
