@@ -6,7 +6,7 @@
 ## Oracle Tutorial
 https://www.oracletutorial.com/
 
-test23
+test233
 ## Table
 ### 1. Start
 [1.Oracle 설치](https://github.com/YHLEE9753/oracle-tutorial/blob/main/1.%20Start/1.Oracle%20%EC%84%A4%EC%B9%98.md)<br>
