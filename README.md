@@ -65,12 +65,12 @@ https://www.oracletutorial.com/
 ### 2. Oracle View
 
 ### 3. Oracle Index
-[1. Create a new index]()<br>
-[2. Removing an index]()<br>
-[3. Unique index]()<br>
-[3_1. Unique constraint vs Unique index]()<br>
-[4. Function-based index]()<br>
-[5. Bitmap index]()<br>
+[1. Create a new index](https://github.com/YHLEE9753/oracle-tutorial/blob/main/4.%20Oracle%20Index/1.%20Create%20a%20new%20index.md)<br>
+[2. Removing an index](https://github.com/YHLEE9753/oracle-tutorial/blob/main/4.%20Oracle%20Index/2.%20Removing%20an%20index.md)<br>
+[3. Unique index](https://github.com/YHLEE9753/oracle-tutorial/blob/main/4.%20Oracle%20Index/3.%20Unique%20index.md)<br>
+[3_1. Unique constraint vs Unique index](https://github.com/YHLEE9753/oracle-tutorial/blob/main/4.%20Oracle%20Index/3_1.%20Unique%20constraint%20vs%20Unique%20index.md)<br>
+[4. Function-based index](https://github.com/YHLEE9753/oracle-tutorial/blob/main/4.%20Oracle%20Index/4.%20Function-based%20index.md)<br>
+[5. Bitmap index](https://github.com/YHLEE9753/oracle-tutorial/blob/main/4.%20Oracle%20Index/5.%20Bitmap%20index.md)<br>
 
 ### 4. PL/SQL Tutorial
 
