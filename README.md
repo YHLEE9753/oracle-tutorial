@@ -95,7 +95,7 @@ https://www.oracletutorial.com/
 5. Exception handlers<br>
 6. Records<br>
 7. Cursors<br>
-8. Stored procedures and Functiosn<br>
+8. Stored procedures and Functions<br>
 9. Packages<br>
 10. Triggers<br>
 11. PL/SQL Collections<br>
