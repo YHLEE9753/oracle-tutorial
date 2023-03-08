@@ -62,9 +62,9 @@ https://www.oracletutorial.com/
 12. Constraints<br>
 13. Temporary Tables<br>
 
-### 2. Oracle View
+### 3. Oracle View
 
-### 3. Oracle Index
+### 4. Oracle Index
 [1. Create a new index](https://github.com/YHLEE9753/oracle-tutorial/blob/main/4.%20Oracle%20Index/1.%20Create%20a%20new%20index.md)<br>
 [2. Removing an index](https://github.com/YHLEE9753/oracle-tutorial/blob/main/4.%20Oracle%20Index/2.%20Removing%20an%20index.md)<br>
 [3. Unique index](https://github.com/YHLEE9753/oracle-tutorial/blob/main/4.%20Oracle%20Index/3.%20Unique%20index.md)<br>
@@ -72,7 +72,7 @@ https://www.oracletutorial.com/
 [4. Function-based index](https://github.com/YHLEE9753/oracle-tutorial/blob/main/4.%20Oracle%20Index/4.%20Function-based%20index.md)<br>
 [5. Bitmap index](https://github.com/YHLEE9753/oracle-tutorial/blob/main/4.%20Oracle%20Index/5.%20Bitmap%20index.md)<br>
 
-### 4. PL/SQL Tutorial
+### 5. PL/SQL Tutorial
 1. Getting statrted with PL/SQL<br>
    [- What is PL/SQL](https://github.com/YHLEE9753/oracle-tutorial/blob/main/5.%20PL-SQL%20Tutorial/1.%20Getting%20started%20with%20PL-SQL/1.%20What%20is%20PL-SQL.md)<br>
    [- Anonymous Block](https://github.com/YHLEE9753/oracle-tutorial/blob/main/5.%20PL-SQL%20Tutorial/1.%20Getting%20started%20with%20PL-SQL/2.%20PL-SQL%20Anonymous%20Block.md)<br>
@@ -93,32 +93,46 @@ https://www.oracletutorial.com/
 4. Select Into<br>
    [- SELECT INTO](https://github.com/YHLEE9753/oracle-tutorial/tree/main/5.%20PL-SQL%20Tutorial/4.%20Select%20Into)<br>
 5. Exception handlers<br>
-   [- Exception.md](5.%20PL-SQL%20Tutorial%2F5.%20Exception%20handlers%2F1.%20Exception.md)<br>
-   [- Raise exceptions.md](5.%20PL-SQL%20Tutorial%2F5.%20Exception%20handlers%2F2.%20Raise%20exceptions.md)<br>
-   [- Using raise_application_error.md](5.%20PL-SQL%20Tutorial%2F5.%20Exception%20handlers%2F3.%20Using%20raise_application_error.md)<br>
-   [- Exception propagation.md](5.%20PL-SQL%20Tutorial%2F5.%20Exception%20handlers%2F4.%20Exception%20propagation.md)<br>
-   [- Handling other unhandled exceptions.md](5.%20PL-SQL%20Tutorial%2F5.%20Exception%20handlers%2F5.%20Handling%20other%20unhandled%20exceptions.md)<br>
+   [- Exception](5.%20PL-SQL%20Tutorial%2F5.%20Exception%20handlers%2F1.%20Exception.md)<br>
+   [- Raise exceptions](5.%20PL-SQL%20Tutorial%2F5.%20Exception%20handlers%2F2.%20Raise%20exceptions.md)<br>
+   [- Using raise_application_error](5.%20PL-SQL%20Tutorial%2F5.%20Exception%20handlers%2F3.%20Using%20raise_application_error.md)<br>
+   [- Exception propagation](5.%20PL-SQL%20Tutorial%2F5.%20Exception%20handlers%2F4.%20Exception%20propagation.md)<br>
+   [- Handling other unhandled exceptions](5.%20PL-SQL%20Tutorial%2F5.%20Exception%20handlers%2F5.%20Handling%20other%20unhandled%20exceptions.md)<br>
 6. Records<br>
-   [- Record.md](5.%20PL-SQL%20Tutorial%2F6.%20Records%2F1.%20Record.md)
+   [- Record](5.%20PL-SQL%20Tutorial%2F6.%20Records%2F1.%20Record.md)<br>
 7. Cursors<br>
-   [- Cursor.md](5.%20PL-SQL%20Tutorial%2F7.%20Cursors%2F1.%20Cursor.md)
-   [- Cursor FOR LOOP.md](5.%20PL-SQL%20Tutorial%2F7.%20Cursors%2F2.%20Cursor%20FOR%20LOOP.md)<br>
-   [- Cursor with parameters.md](5.%20PL-SQL%20Tutorial%2F7.%20Cursors%2F3.%20Cursor%20with%20parameters.md)<br>
-   [- Cursor Variable with REF CURSOR.md](5.%20PL-SQL%20Tutorial%2F7.%20Cursors%2F4.%20Cursor%20Variable%20with%20REF%20CURSOR.md)<br>
-   [- Updatable cursor.md](5.%20PL-SQL%20Tutorial%2F7.%20Cursors%2F5.%20Updatable%20cursor.md)<br>
+   [- Cursor](5.%20PL-SQL%20Tutorial%2F7.%20Cursors%2F1.%20Cursor.md)<br>
+   [- Cursor FOR LOOP](5.%20PL-SQL%20Tutorial%2F7.%20Cursors%2F2.%20Cursor%20FOR%20LOOP.md)<br>
+   [- Cursor with parameters](5.%20PL-SQL%20Tutorial%2F7.%20Cursors%2F3.%20Cursor%20with%20parameters.md)<br>
+   [- Cursor Variable with REF CURSOR](5.%20PL-SQL%20Tutorial%2F7.%20Cursors%2F4.%20Cursor%20Variable%20with%20REF%20CURSOR.md)<br>
+   [- Updatable cursor](5.%20PL-SQL%20Tutorial%2F7.%20Cursors%2F5.%20Updatable%20cursor.md)<br>
 8. Stored procedures and Functions<br>
-   [- Procedure.md](5.%20PL-SQL%20Tutorial%2F8.%20Stored%20procedres%20and%20Functions%2F1.%20Procedure.md)<br>
-   [- Implicit statement results.md](5.%20PL-SQL%20Tutorial%2F8.%20Stored%20procedres%20and%20Functions%2F2.%20Implicit%20statement%20results.md)<br>
-   [- Function.md](5.%20PL-SQL%20Tutorial%2F8.%20Stored%20procedres%20and%20Functions%2F3.%20Function.md)<br>
-   [- Cursor variables.md](5.%20PL-SQL%20Tutorial%2F8.%20Stored%20procedres%20and%20Functions%2F4.%20Cursor%20variables.md)<br>
+   [- Procedure](5.%20PL-SQL%20Tutorial%2F8.%20Stored%20procedres%20and%20Functions%2F1.%20Procedure.md)<br>
+   [- Implicit statement results](5.%20PL-SQL%20Tutorial%2F8.%20Stored%20procedres%20and%20Functions%2F2.%20Implicit%20statement%20results.md)<br>
+   [- Function](5.%20PL-SQL%20Tutorial%2F8.%20Stored%20procedres%20and%20Functions%2F3.%20Function.md)<br>
+   [- Cursor variables](5.%20PL-SQL%20Tutorial%2F8.%20Stored%20procedres%20and%20Functions%2F4.%20Cursor%20variables.md)<br>
 9. Packages<br>
-   [- PL-SQL package.md](5.%20PL-SQL%20Tutorial%2F9.%20Package%2F1.%20PL-SQL%20package.md)<br>
-   [- Package specification.md](5.%20PL-SQL%20Tutorial%2F9.%20Package%2F2.%20Package%20specification.md)<br>
-   [- Package body.md](5.%20PL-SQL%20Tutorial%2F9.%20Package%2F3.%20Package%20body.md)<br>
-   [- Drop Package.md](5.%20PL-SQL%20Tutorial%2F9.%20Package%2F4.%20Drop%20Package.md)<br>
+   [- PL-SQL package](5.%20PL-SQL%20Tutorial%2F9.%20Package%2F1.%20PL-SQL%20package.md)<br>
+   [- Package specification](5.%20PL-SQL%20Tutorial%2F9.%20Package%2F2.%20Package%20specification.md)<br>
+   [- Package body](5.%20PL-SQL%20Tutorial%2F9.%20Package%2F3.%20Package%20body.md)<br>
+   [- Drop Package](5.%20PL-SQL%20Tutorial%2F9.%20Package%2F4.%20Drop%20Package.md)<br>
 10. Triggers<br>
 11. PL/SQL Collections<br>
-    [- Associative Arrays.md](5.%20PL-SQL%20Tutorial%2F11.%20PL-SQL%20Collections%2F1.%20Associative%20Arrays.md)<br>
-    [- Nested Tables.md](5.%20PL-SQL%20Tutorial%2F11.%20PL-SQL%20Collections%2F2.%20Nested%20Tables.md)<br>
-    [- VARRAY.md](5.%20PL-SQL%20Tutorial%2F11.%20PL-SQL%20Collections%2F3.%20VARRAY.md)<br>
+    [- Associative Arrays](5.%20PL-SQL%20Tutorial%2F11.%20PL-SQL%20Collections%2F1.%20Associative%20Arrays.md)<br>
+    [- Nested Tables](5.%20PL-SQL%20Tutorial%2F11.%20PL-SQL%20Collections%2F2.%20Nested%20Tables.md)<br>
+    [- VARRAY](5.%20PL-SQL%20Tutorial%2F11.%20PL-SQL%20Collections%2F3.%20VARRAY.md)<br>
 
+### 6. Oracle Aggregate Functions
+[- Oracle Aggregate Functions](6.%20Oracle%20Aggregate%20Functions%2FOracle%20Aggregate%20Functions.md)
+
+### 7. Oracle Analytic Functions
+[- Oracle Analytic Functions](7.%20Oracle%20Analytic%20Functions%2FOracle%20Analytic%20Functions.md)
+
+### 8. Oracle Date Functions
+[- Oracle Date Functions](8.%20Oracle%20Date%20Functions%2FOracle%20Date%20Functions.md)
+
+### 9. Oracle String Functions
+[- Oracle String Functions](9.%20Oracle%20String%20Functions%2FOracle%20String%20Functions.md)
+
+### 10. Oracle Database Administration
+[- Oracle Database Administration](10.%20Oracle%20Database%20Administration%2FOracle%20Database%20Administration.md)
