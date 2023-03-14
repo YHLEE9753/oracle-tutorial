@@ -107,10 +107,10 @@ https://www.oracletutorial.com/
    [- Cursor Variable with REF CURSOR](5.%20PL-SQL%20Tutorial%2F7.%20Cursors%2F4.%20Cursor%20Variable%20with%20REF%20CURSOR.md)<br>
    [- Updatable cursor](5.%20PL-SQL%20Tutorial%2F7.%20Cursors%2F5.%20Updatable%20cursor.md)<br>
 8. Stored procedures and Functions<br>
-   [- Procedure](5.%20PL-SQL%20Tutorial%2F8.%20Stored%20procedres%20and%20Functions%2F1.%20Procedure.md)<br>
-   [- Implicit statement results](5.%20PL-SQL%20Tutorial%2F8.%20Stored%20procedres%20and%20Functions%2F2.%20Implicit%20statement%20results.md)<br>
-   [- Function](5.%20PL-SQL%20Tutorial%2F8.%20Stored%20procedres%20and%20Functions%2F3.%20Function.md)<br>
-   [- Cursor variables](5.%20PL-SQL%20Tutorial%2F8.%20Stored%20procedres%20and%20Functions%2F4.%20Cursor%20variables.md)<br>
+   [- Procedure](https://github.com/YHLEE9753/oracle-tutorial/blob/main/5.%20PL-SQL%20Tutorial/8.%20Stored%20procedures%20and%20Functions/1.%20Procedure.md)<br>
+   [- Implicit statement results](https://github.com/YHLEE9753/oracle-tutorial/blob/main/5.%20PL-SQL%20Tutorial/8.%20Stored%20procedures%20and%20Functions/2.%20Implicit%20statement%20results.md)<br>
+   [- Function](https://github.com/YHLEE9753/oracle-tutorial/blob/main/5.%20PL-SQL%20Tutorial/8.%20Stored%20procedures%20and%20Functions/3.%20Function.md)<br>
+   [- Cursor variables](https://github.com/YHLEE9753/oracle-tutorial/blob/main/5.%20PL-SQL%20Tutorial/8.%20Stored%20procedures%20and%20Functions/4.%20Cursor%20variables.md)<br>
 9. Packages<br>
    [- PL-SQL package](5.%20PL-SQL%20Tutorial%2F9.%20Package%2F1.%20PL-SQL%20package.md)<br>
    [- Package specification](5.%20PL-SQL%20Tutorial%2F9.%20Package%2F2.%20Package%20specification.md)<br>
