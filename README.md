@@ -112,16 +112,8 @@ https://www.oracletutorial.com/
    [- Function](https://github.com/YHLEE9753/oracle-tutorial/blob/main/5.%20PL-SQL%20Tutorial/8.%20Stored%20procedures%20and%20Functions/3.%20Function.md)<br>
    [- Cursor variables](https://github.com/YHLEE9753/oracle-tutorial/blob/main/5.%20PL-SQL%20Tutorial/8.%20Stored%20procedures%20and%20Functions/4.%20Cursor%20variables.md)<br>
 9. Packages<br>
-   [- PL-SQL package](5.%20PL-SQL%20Tutorial%2F9.%20Package%2F1.%20PL-SQL%20package.md)<br>
-   [- Package specification](5.%20PL-SQL%20Tutorial%2F9.%20Package%2F2.%20Package%20specification.md)<br>
-   [- Package body](5.%20PL-SQL%20Tutorial%2F9.%20Package%2F3.%20Package%20body.md)<br>
-   [- Drop Package](5.%20PL-SQL%20Tutorial%2F9.%20Package%2F4.%20Drop%20Package.md)<br>
 10. Triggers<br>
 11. PL/SQL Collections<br>
-    [- Associative Arrays](5.%20PL-SQL%20Tutorial%2F11.%20PL-SQL%20Collections%2F1.%20Associative%20Arrays.md)<br>
-    [- Nested Tables](5.%20PL-SQL%20Tutorial%2F11.%20PL-SQL%20Collections%2F2.%20Nested%20Tables.md)<br>
-    [- VARRAY](5.%20PL-SQL%20Tutorial%2F11.%20PL-SQL%20Collections%2F3.%20VARRAY.md)<br>
-
 ### 6. Oracle Aggregate Functions
 [- Oracle Aggregate Functions](6.%20Oracle%20Aggregate%20Functions%2FOracle%20Aggregate%20Functions.md)
 
@@ -136,3 +128,5 @@ https://www.oracletutorial.com/
 
 ### 10. Oracle Database Administration
 [- Oracle Database Administration](10.%20Oracle%20Database%20Administration%2FOracle%20Database%20Administration.md)
+
+### Advance
