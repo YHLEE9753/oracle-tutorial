@@ -137,3 +137,8 @@ https://www.oracletutorial.com/
 [5. with.md](Advance%2F5.%20with.md)<br>
 [6. partition by.md](Advance%2F6.%20partition%20by.md)<br>
 [7. Oracle Job Batch.md](Advance%2F7.%20Oracle%20Job%20Batch.md)<br>
+
+### Other
+[유용한 쿼리.md](Other%2F%C0%AF%BF%EB%C7%D1%20%C4%F5%B8%AE.md)<br>
+
+
