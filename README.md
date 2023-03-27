@@ -130,15 +130,17 @@ https://www.oracletutorial.com/
 [- Oracle Database Administration](10.%20Oracle%20Database%20Administration%2FOracle%20Database%20Administration.md)
 
 ### Advance
-[1. Connect By, Prioir.md](Advance%2F1.%20Connect%20By%2C%20Prioir.md)<br>
-[2. dual.md](Advance%2F2.%20dual.md)<br>
-[3. JSON_TABLE.md](Advance%2F3.%20JSON_TABLE.md)<br>
-[4. Merge.md](Advance%2F4.%20Merge.md)<br>
-[5. with.md](Advance%2F5.%20with.md)<br>
-[6. partition by.md](Advance%2F6.%20partition%20by.md)<br>
-[7. Oracle Job Batch.md](Advance%2F7.%20Oracle%20Job%20Batch.md)<br>
+[1. Connect By, Prioir](Advance%2F1.%20Connect%20By%2C%20Prioir.md)<br>
+[2. Dual](Advance%2F2.%20dual.md)<br>
+[3. JSON_TABLE](Advance%2F3.%20JSON_TABLE.md)<br>
+[4. Merge](Advance%2F4.%20Merge.md)<br>
+[5. With](Advance%2F5.%20with.md)<br>
+[6. Partition by](Advance%2F6.%20partition%20by.md)<br>
+[7. Oracle Job Batch](Advance%2F7.%20Oracle%20Job%20Batch.md)<br>
+[8. over](Advance%2F8.%20over.md)<br>
+[9. coalesce](Advance%2F9.%20coalesce.md)<br>
 
 ### Other
-[유용한 쿼리.md](Other%2F%C0%AF%BF%EB%C7%D1%20%C4%F5%B8%AE.md)<br>
-
+[1. 유용한 쿼리](Other%2F1.%20%C0%AF%BF%EB%C7%D1%20%C4%F5%B8%AE.md)<br>
+[2. 테이블 생성 스크립트 추출](Other%2F2.%20%C5%D7%C0%CC%BA%ED%20%BB%FD%BC%BA%20%BD%BA%C5%A9%B8%B3%C6%AE%20%C3%DF%C3%E2.md)<br>
 
